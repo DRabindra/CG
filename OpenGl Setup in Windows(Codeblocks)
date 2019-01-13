@@ -1,0 +1,8 @@
+Open OpenGL(2) folder from the downloaded file
+Location May vary from "Program files" to "Program filesx86"
+Copy the glut.h file and paste to the folder “C:\Program Files\CodeBlocks\MinGW\include\GL“.
+Open lib folder from downloaded file.
+Copy glut32.lib and glut.def and paste to the folder “C:\Program Files\CodeBlocks\MinGW\lib“.
+Open bin folder from the downloaded file.
+Copy the glut.dll file and paste to the folder “C:\Windows\System32" as well as in SYSWOW64(It doesn't matter You are using 64-Bit or 32-Bit).
+You are done and ready to go.
